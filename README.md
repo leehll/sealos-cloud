@@ -8,5 +8,3 @@
 
 docker代码：7techlife/seven
 
-
-<img width="854" height="1074" alt="image" src="https://github.com/user-attachments/assets/341ea04b-ff27-4303-892b-a24551ff5e99" />

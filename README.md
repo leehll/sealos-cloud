@@ -4,4 +4,4 @@
 关键点：GitHub注册180天以上（登录送5积分）完成实名认证后，得 10 元余额奖励
 注册地址：https://cloud.sealos.run/?uid=nI-2R_gdtM
 docker代码：7techlife/seven
-![Uploading 截屏2025-10-03 20.15.21.png…]()
+
